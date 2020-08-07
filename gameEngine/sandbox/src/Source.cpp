@@ -1,5 +1,4 @@
 #include <gameEngine.h>
-
 class SandBox : public gameEngine::Aplication
 {
 public:
